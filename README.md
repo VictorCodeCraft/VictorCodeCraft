@@ -36,3 +36,4 @@ Estou animado para compartilhar meu progresso e colaborar com outros desenvolved
 ![Snake animation](https://github.com/VictorCodeCraft/VictorCodeCraft/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=VictorCodeCraft&repo=VictorCodeCraft&theme=react)](https://github.com/VictorCodeCraft/VictorCodeCraft)
+
