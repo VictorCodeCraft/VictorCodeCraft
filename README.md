@@ -32,3 +32,7 @@
 Estou animado para compartilhar meu progresso e colaborar com outros desenvolvedores aqui no GitHub. Vamos construir o futuro juntos!
 
 "A tecnologia é apenas uma ferramenta. Em termos de fazer o mundo mudar, é o que você faz com ela que conta." - Neil deGrasse Tyson, astrofísico e comunicador científico.
+
+![Snake animation].(https://github.com/VictorCodeCraft/VictorCodeCraft/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=VictorCodeCraft&repo=VictorCodeCraft&theme=react)](https://github.com/VictorCodeCraft/VictorCodeCraft)
